@@ -1,0 +1,1 @@
+mysql> UPDATE Students SET City= 'Edinburgh', Country = 'England' WHERE StudentID = 35;
